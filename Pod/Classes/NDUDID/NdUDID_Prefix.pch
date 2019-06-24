@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'CocoaTouchStaticLibrary' target in the 'CocoaTouchStaticLibrary' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+//#define NSLog
+#endif
+
+
+//特别注意：目前只支持正版，故盗版获取udid不要随便修改宏对应的值
+//盗版
+#define IS_FOR_JAIL_BREAK   0
+//正版
+#define ForAppStoreVersion  !IS_FOR_JAIL_BREAK

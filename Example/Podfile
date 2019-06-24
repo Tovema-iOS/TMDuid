@@ -1,0 +1,10 @@
+source 'https://github.com/Tovema-iOS/Specs.git'
+#use_frameworks!
+
+target 'FLDuid_Example' do
+  pod "TMDuid", :path => "../"
+end
+
+target 'FLDuid_Tests' do
+
+end

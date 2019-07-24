@@ -18,11 +18,11 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description      = "用户唯一标识库"
 
-  s.homepage         = "https://github.com/CodingPub/TMDuid"
+  s.homepage         = "https://github.com/Tovema-iOS/TMDuid"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { 'CodingPub' => 'lxb_0605@qq.com' }
-  s.source           = { :git => "https://github.com/CodingPub/TMDuid.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Tovema-iOS/TMDuid.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'

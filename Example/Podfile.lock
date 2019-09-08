@@ -1,0 +1,16 @@
+PODS:
+  - TMDuid (1.0)
+
+DEPENDENCIES:
+  - TMDuid (from `../`)
+
+EXTERNAL SOURCES:
+  TMDuid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMDuid: 317d10b4971032dc7aa06c1e451b0ebca14ca739
+
+PODFILE CHECKSUM: d22b2ab27ef4c0504789cdd43b9c936e18c132fe
+
+COCOAPODS: 1.7.2
